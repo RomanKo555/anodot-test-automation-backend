@@ -1,0 +1,27 @@
+Introduction:
+This test plan document outlines the testing approach for the pytemp module, which provides temperature conversion functionality.
+
+Testing method:
+Data driven testing
+
+Testing Environment:
+pytest version 6.2.4
+Python version 3.9.7
+
+Feature to be tested:
+Conversion from Celsius to Fahrenheit
+Conversion from Celsius to Kelvin
+Conversion from Fahrenheit to Celsius
+Conversion from Fahrenheit to Kelvin
+Conversion from Kelvin to Celsius
+Conversion from Kelvin to Fahrenheit
+
+Test Design techniques:
+Error Guessing
+Boundary value analysis
+Equivalence partitioning
+
+Tests should be added in the future:
+0) understand all requirements
+1) static testing
+2) more values to verify
